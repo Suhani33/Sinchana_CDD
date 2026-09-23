@@ -4,6 +4,7 @@ public class area {
         Scanner sc=new Scanner(System.in);
         float r=sc.nextFloat();
         double pi=3.14;
+#area of circle
     
         double area=pi*r*r;
         System.out.println(area);
